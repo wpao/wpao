@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/wpao/wpao/output/snake.svg" alt="Snake animation" />
+
 ## Hi there 👋
 
 <!--
@@ -22,9 +24,3 @@ Here are some ideas to get you started:
   <br>
   <br>
 </a>
-
-###
-
-<img src="https://raw.githubusercontent.com/wpao/wpao/output/snake.svg" alt="Snake animation" />
-
-###
